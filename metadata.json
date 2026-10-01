@@ -1,0 +1,6 @@
+{
+  "name": "ChhayaPath",
+  "description": "Smart mobility and bio-adaptive environmental routing engine for two-wheelers and delivery couriers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
